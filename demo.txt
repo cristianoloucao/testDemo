@@ -2,3 +2,6 @@ ALFACE
 
 joana
 Maria
+
+pessoa 1 esteve aqui
+pessoa2 esteve aqui
